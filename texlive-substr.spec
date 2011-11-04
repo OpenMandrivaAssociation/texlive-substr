@@ -49,6 +49,7 @@ substring.
 %doc %{_texmfdistdir}/doc/latex/substr/README
 %doc %{_texmfdistdir}/doc/latex/substr/testsubstr.pdf
 %doc %{_texmfdistdir}/doc/latex/substr/testsubstr.tex
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -59,3 +60,5 @@ substring.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
