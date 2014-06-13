@@ -6,7 +6,7 @@
 # catalog-version 1.2
 Name:		texlive-substr
 Version:	1.2
-Release:	6
+Release:	7
 Summary:	Deal with substrings in strings
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/substr
