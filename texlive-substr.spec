@@ -1,6 +1,6 @@
 Name:		texlive-substr
 Version:	16117
-Release:	1
+Release:	2
 Summary:	Deal with substrings in strings
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/substr
