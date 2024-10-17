@@ -3,7 +3,7 @@ Version:	16117
 Release:	2
 Summary:	Deal with substrings in strings
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/substr
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/substr
 License:	LPPL1
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/substr.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/substr.doc.r%{version}.tar.xz
